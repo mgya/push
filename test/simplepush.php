@@ -35,7 +35,7 @@ echo 'Connected to APNS' . PHP_EOL;
 // Create the payload body  
 $body['aps'] = array(  
 'alert' => $message,  
-'sound' => 'http://www.baidu.com'  
+'sound' => 'http://www.huying.com'  
 );  
   
 // Encode the payload as JSON  
